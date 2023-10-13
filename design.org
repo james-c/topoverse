@@ -1,0 +1,11 @@
+* Topoverse
+** Protocol 
+Describes 3 aspects: Place, Presence & Ephemera
+*** Place
+*** Presence
+*** Ephemera
+** Design
+** Demo
+*** Hosting - web
+**** TODO Purchase domain :external:
+**** TODO Register ENS :external:
